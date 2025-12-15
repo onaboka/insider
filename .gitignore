@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+
+# Laravel / PHP
+.env
+/vendor
+/public/storage
+/storage/*.key
+.phpunit.result.cache
+
+# Node / frontend
+node_modules/
+package-lock.json
+yarn.lock

@@ -1,0 +1,58 @@
+.logo {
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+.logo img {
+    height: 80px;
+}
+
+.info-box {
+    width: 100%;
+    margin: 20px 0;
+}
+
+.info-box_important_note {
+    font-weight: bold;
+}
+
+.standings-box_title {
+    color: blueviolet;
+    text-align: center;
+}
+
+.make-center {
+    text-align: center
+}
+
+.fixtures-box_header {
+    font-weight: bold;
+    text-align: center;
+    background: #0152dd;
+    color: #ffffff;
+}
+
+.weekly-simulate-button {
+    border: none;
+}
+
+.make-full-width {
+    width: 100%;
+}
+
+button.simulate {
+    width:200px;
+    margin: 15px;
+}
+
+button.reset {
+    width: 200px;
+    margin: 15px;
+}
+
+.prediction-box_title {
+    text-align: center;
+    margin-top: 50px;
+    width: 100%;
+}
